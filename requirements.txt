@@ -1,0 +1,8 @@
+streamlit
+crewai
+crewai_tools
+python-dotenv
+langchain-openai
+pandas
+matplotlib
+sqlite3
